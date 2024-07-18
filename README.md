@@ -41,7 +41,7 @@ The veraPDF tool is an open-source, industry-supported PDF/A and PDF/UA validato
 </report>
 
 ```
-PDF/UA-2 veraPDF report
+### PDF/UA-2 veraPDF report
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
