@@ -5,6 +5,13 @@
 This repository contains the code and resources used to create the Well-Tagged PDF (WTPDF) example posted on https://pdfa.org/wtpdf.
 It uses the [pdfHTML](https://github.com/itext/itext-pdfhtml-java) add-on (html2pdf) for the [iText Core](https://github.com/itext/itext-java) PDF library.
 
+## Archived
+
+Note: the Well-Tagged PDF (WTPDF) sample is moved to [itext-publications-examples-java](https://github.com/itext/itext-publications-examples-java/tree/master), and this repository is archived:
+
+| Description                                | Link                                                                                                                           |
+|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Create WTPDF document                      | [Java example](https://github.com/itext/i7js-examples/blob/master/src/main/java/com/itextpdf/samples/sandbox/pdfua/Wtpdf.java) |
 
 
 ## Validation with veraPDF
